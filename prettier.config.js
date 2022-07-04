@@ -1,3 +1,5 @@
+//! npm install --save-dev prettier
+
 module.exports = {
   arrowParens: "always",
   bracketSpacing: true,

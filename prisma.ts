@@ -1,3 +1,5 @@
+//! npm install @prisma/client
+
 import { PrismaClient } from "@prisma/client";
 
 declare global {
